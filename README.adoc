@@ -68,6 +68,8 @@ toc::[]
 
 * https://www.getdbt.com/[dbt] - Empowering data analysts and engineers to apply methodologies akin to those used by software engineers for constructing applications, dbt ensures data transformation processes align with established practices.
 
+* https://github.com/apache/airflow[Apache Airflow] - A platform to programmatically author, schedule, and monitor workflows. Provides platform to build and manage DAGs (Directed Acyclic Graphs) for ETL pipelines, supporting integrations with cloud services, databases, and messaging systems. Provides a rich UI for tracking task execution, retry logic, and pipeline dependencies.
+
 == Formats
 
 * https://avro.apache.org/[Apache Avro] - A data serialization system.
